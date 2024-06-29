@@ -1,0 +1,244 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    width: 1300px;
+    margin: 0 auto;
+}
+
+#header{
+    background:rgba(26, 80, 46, 1) ;
+    padding: 40px 0;
+    border-radius: 100px 100px  0 0 ;
+}
+
+button{
+    border: none;
+    cursor: pointer;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header h1{
+    color: rgba(255, 255, 255, 1);
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.nav a{
+    color: rgba(255, 255, 255, 1);
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.btn-one{
+    background: transparent;
+    outline: none;
+    color: rgba(255, 255, 255, 1);
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.btn-two{
+    background: orange;
+    border-radius: 100px;
+    width: 128px;
+    height: 49px;
+    color: rgba(255, 255, 255, 1);
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.header-end{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    transition: .4s;
+}
+
+.btn-two:hover{
+    background: green;
+}
+
+#hero{
+    background: rgba(26, 80, 46, 1);
+    padding: 20px 0;
+}
+
+.hero{
+    display: flex;
+    align-items:center ;
+    justify-content: space-around;
+    gap: 30px;
+    padding: 20px 0;
+}
+
+.about{
+    padding: 20px;
+}
+.btn-hero{
+    background: rgba(255, 255, 255, 0.25);
+    width: 228px;
+    height: 50px;
+    border-radius: 15px;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    transition: .5s;
+}
+
+.btn-hero:hover{
+    background: rgb(117, 5, 20);
+    transform: translate(red);
+}
+.hero h1{
+    font-size: 55px;
+    color: white;
+    font-weight: 500;
+    padding: 20px 0;
+}
+
+.hero p{
+    color: rgba(255, 255, 255, 1);
+    font-size: 25px;
+    font-weight: 500;
+    padding: 20px 0;
+}
+
+.btn-heroo{
+    background: rgba(255, 123, 78, 1);
+    width: 263px;
+    height: 91px;
+    border-radius: 27px;
+    color: rgba(254, 254, 254, 1);
+    font-size: 25px;
+    font-weight: 600;
+    padding: 20px;
+    transition: .4s;
+}
+
+.btn-heroo:hover{
+    background: greenyellow;
+    transform: translate(red);
+}
+
+
+.what{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    padding:  0 40px;
+    margin: 30px;
+}
+
+.what-end h1{
+    color: black;
+    font-size: 45px;
+    font-weight: 500;
+    margin: 20px;
+}
+
+.alfa{
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    margin: 20px;
+}
+
+.alfa img{
+    background: orange;
+    width: 134px;
+    height: 134px;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.alfa h3{
+    color: rgba(15, 31, 28, 1);
+    font-size: 33px;
+    font-weight: 500;
+    margin: 20px;
+}
+
+.alfa p{
+    color:rgba(15, 31, 28, 1);
+    font-size: 22px;
+    font-weight: 500;
+    margin: 20px;
+    text-align: center;
+}
+
+.what-end p{
+    color: rgba(15, 31, 28, 1);
+    font-size: 22px;
+    font-weight: 500;
+    margin: 20px;
+}
+.ions{
+    width: 100px;
+    height: 100px;
+    color: yellow;
+}
+
+.ionss{
+    width: 100px;
+    height: 100px;
+    color: burlywood;
+}
+
+
+
+.center{
+    display: flex;
+  flex-direction: column;
+  align-items:center;
+  gap: 30px;
+    background: wheat;
+    width: 1249px;
+    height: 581px;
+    border-radius: 60px;
+}
+
+.center h1{
+
+    padding-bottom: 50px;
+    font-size: 45px;
+    font-weight: 500;
+    color: black;
+    align-items: center;
+}
+
+.center p{
+    color: rgba(15, 31, 28, 1);
+    font-size: 45px;
+    font-weight: 400;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+.center button{
+    background: rgba(255, 123, 78, 1);
+    width: 225px;
+    height: 79px;
+    border-radius: 27px;
+    color: white;
+    font-size: 20px;
+    font-weight: 600px;
+}
