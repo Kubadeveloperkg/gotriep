@@ -209,6 +209,7 @@ button{
     display: flex;
   flex-direction: column;
   align-items:center;
+  justify-content: center;
   gap: 30px;
     background: wheat;
     width: 1249px;
@@ -240,5 +241,101 @@ button{
     border-radius: 27px;
     color: white;
     font-size: 20px;
-    font-weight: 600px;
+    font-weight: 600px
+}
+
+.fa-star{
+    font-size: 200px;
+}
+
+.nav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.nav h1{
+    color: rgba(15, 31, 28, 1);
+    font-size: 55px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.nav-btn{
+    background: rgb(255, 255, 255);
+    width: 800px;
+    height: 129px;
+    border-radius: 37px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.btn-11{
+    background: transparent;
+    color: rgba(15, 31, 28, 1);
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.btn-22{
+    background: rgba(255, 123, 78, 1);
+    width: 300px;
+    height: 105px;
+    border-radius: 35px;
+    color: rgba(255, 255, 255, 1);
+    font-size: 25px;
+    font-weight: 600;
+}
+
+
+.footer-end{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer h1{
+    color: rgb(255, 68, 0)0;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 25px 0;
+}
+
+.goot-text{
+    display: flex;
+    align-items: center;
+    gap: 39px;
+}
+
+.goot-text a{
+    color: rgba(15, 31, 28, 1);
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.btn-12{
+    background: transparent;
+    outline: none;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.btn-21{
+    background: orange;
+    border-radius: 100px;
+    width: 128px;
+    height: 49px;
+    color: rgba(255, 255, 255, 1);
+    font-size: 15px;
+    font-weight: 500;
 }
