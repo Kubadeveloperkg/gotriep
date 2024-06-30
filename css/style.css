@@ -35,13 +35,13 @@ button{
     font-weight: 700;
 }
 
-.nav{
+.nava{
     display: flex;
     align-items: center;
     gap: 30px;
 }
 
-.nav a{
+.nava a{
     color: rgba(255, 255, 255, 1);
     font-size: 15px;
     font-weight: 500;
