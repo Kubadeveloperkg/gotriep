@@ -1,0 +1,147 @@
+@media (max-width: 768px){
+    .container{
+    width: 90%;
+    }
+
+    .container{
+        width: 90%;
+    }
+    
+    
+    .header h1{
+        font-size: 15px;
+    }
+    
+    .nava a{
+        font-size: 10px;
+    }
+    
+    .btn-one{
+        font-size: 10px;
+    }
+    
+    .btn-two{
+        width: 90px;
+        height: 30px;
+        font-size: 10px;
+    } 
+
+    .btn-hero{
+        width: 120px;
+        height: 30px;
+        font-size: 12px;
+        font-weight: 300;
+      
+    }
+    
+    .hero h1{
+        font-size: 35px;
+    }
+    
+    .hero p{
+        font-size: 17px;
+    }
+
+    .hero img{
+        width: 400px;
+        height: 400px;
+    }
+    
+    .btn-heroo{
+        width: 150px;
+        height: 70px;
+        font-size: 17px;
+        
+    }   
+    .what-end h1{
+        font-size: 30px;
+    }
+    
+    .alfa img{
+        width: 90px;
+        height: 90px;
+    }
+    
+    .alfa h3{
+        font-size: 22px;
+    }
+    
+    .alfa p{
+        font-size: 17px;
+    }
+    
+    .what-end p{
+        font-size: 17px;
+    }
+    .ions{
+        width: 60px;
+        height: 60px;
+    }
+    
+    .ionss{
+        width: 60px;
+        height: 60px;
+    }
+    .center{
+        width: 800px;
+        height: 300px;
+    }
+    
+    .center h1{
+        font-size: 30px;
+    }
+    
+    .center p{
+        font-size: 30px;
+    }
+    
+    .center button{
+        width: 140px;
+        height: 40px;
+        font-size: 10px;
+    }
+    .nav h1{
+        font-size: 30px;
+    }
+    
+    .nav-btn{
+        width: 600px;
+        height: 90px;
+    }
+    
+    .btn-11{
+        font-size: 17px;
+    }
+    
+    .btn-22{
+        width: 200px;
+        height: 70px;
+        font-size: 17px;
+    
+    }
+    .footer h1{
+        font-size: 13px;
+    }
+    .goot-text a{
+        font-size: 10px;
+    }
+    .btn-12{
+        font-size: 10px
+    }
+    
+    .btn-21{
+        width: 90px;
+        height: 30px;
+        font-size: 10px;
+    }
+
+    .what img{
+        width: 400px;
+        height: 400px;
+    }
+
+    .aldasr{
+        width: 100px;
+        height: 100px;
+    }
+}

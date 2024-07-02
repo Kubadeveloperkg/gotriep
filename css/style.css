@@ -143,9 +143,10 @@ button{
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 15px;
+    gap: 50px;
     padding:  0 40px;
     margin: 30px;
+    padding-top: 20px;
 }
 
 .what-end h1{
@@ -168,6 +169,11 @@ button{
     height: 134px;
     border-radius: 100%;
     margin: 20px;
+}
+
+.aldasr{
+    width: 100px;
+    height: 100px;
 }
 
 .alfa h3{
